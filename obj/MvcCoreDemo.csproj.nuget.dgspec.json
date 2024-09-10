@@ -49,6 +49,10 @@
             "MySql.Data": {
               "target": "Package",
               "version": "[9.0.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.7.3, )"
             }
           },
           "imports": [

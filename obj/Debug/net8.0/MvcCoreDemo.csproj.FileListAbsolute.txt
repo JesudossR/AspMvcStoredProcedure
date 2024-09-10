@@ -47,3 +47,9 @@ D:\asp\MvcCoreDemo\obj\Debug\net8.0\refint\MvcCoreDemo.dll
 D:\asp\MvcCoreDemo\obj\Debug\net8.0\MvcCoreDemo.pdb
 D:\asp\MvcCoreDemo\obj\Debug\net8.0\MvcCoreDemo.genruntimeconfig.cache
 D:\asp\MvcCoreDemo\obj\Debug\net8.0\ref\MvcCoreDemo.dll
+D:\asp\MvcCoreDemo\obj\Debug\net8.0\MvcCoreDemo.sourcelink.json
+D:\asp\MvcCoreDemo\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\asp\MvcCoreDemo\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\asp\MvcCoreDemo\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\asp\MvcCoreDemo\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\asp\MvcCoreDemo\obj\Debug\net8.0\MvcCoreDemo.MvcApplicationPartsAssemblyInfo.cs
